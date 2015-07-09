@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+         version="2.4">
+
+    <display-name>departmentStaff</display-name>
+
+    <servlet>
+        <servlet-name>EmployeeViewServlet</servlet-name>
+        <servlet-class>com.mustafaiev.servlets.EmployeeViewServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EmployeeViewServlet</servlet-name>
+        <url-pattern>/employee/view</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>EmployeeCreateServlet</servlet-name>
+        <servlet-class>com.mustafaiev.servlets.EmployeeCreateServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EmployeeCreateServlet</servlet-name>
+        <url-pattern>/employee/create</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>EmployeeEditServlet</servlet-name>
+        <servlet-class>com.mustafaiev.servlets.EmployeeEditServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EmployeeEditServlet</servlet-name>
+        <url-pattern>/employee/edit</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>EmployeeDeleteServlet</servlet-name>
+        <servlet-class>com.mustafaiev.servlets.EmployeeDeleteServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EmployeeDeleteServlet</servlet-name>
+        <url-pattern>/employee/delete</url-pattern>
+    </servlet-mapping>
+
+</web-app>
