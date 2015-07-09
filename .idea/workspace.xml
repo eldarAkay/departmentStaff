@@ -2,82 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97b9a6e5-042f-4cd9-abbb-e56bf568ac7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/ConnectionData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/ConnectionData.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/DBC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/DBC.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/models/Employee.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/models/Employee.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/EmployeeCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/EmployeeCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/servlets/EmployeeCreateServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/servlets/EmployeeCreateServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/servlets/EmployeeDeleteServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/servlets/EmployeeDeleteServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/servlets/EmployeeEditServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/servlets/EmployeeEditServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/servlets/EmployeeViewServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/servlets/EmployeeViewServlet.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/JdbcStorage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/JdbcStorage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/MemoryStorage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/MemoryStorage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/service/Settings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/service/Settings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/Storage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/Storage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-asl-1.9.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/lib/jackson-mapper-asl-1.9.13.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.35.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/lib/servlet-api-2.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/lib/standard-1.1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/ConnectionData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/employee/CreateEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/views/employee/CreateEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/DBC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/employee/EditEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/views/employee/EditEmployee.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/models/Employee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/EmployeeCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeCreateServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeDeleteServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeView.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/views/employee/EmployeeView.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeViewServlet.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/JdbcStorage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_35.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/MemoryStorage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/service/Settings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/Storage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/departmentStaff_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/departmentStaff_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/mustafaiev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/classes/mustafaiev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/mustafaiev.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/departmentStaff.iml" afterPath="$PROJECT_DIR$/departmentStaff.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeShow.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeShowServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/EmployeeCache.class" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/EmployeeCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/EmployeeCache.class" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/EmployeeCache.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mustafaiev/servlets/EmployeeEditServlet.class" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/servlets/EmployeeEditServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/servlets/EmployeeEditServlet.class" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/servlets/EmployeeEditServlet.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/JdbcStorage.class" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/JdbcStorage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/JdbcStorage.class" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/JdbcStorage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/MemoryStorage.class" afterPath="$PROJECT_DIR$/target/classes/com/mustafaiev/store/MemoryStorage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/MemoryStorage.class" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/classes/com/mustafaiev/store/MemoryStorage.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/EmployeeCache.java" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/EmployeeCache.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeView.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/views/employee/EmployeeView.jsp" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/views/employee/EmployeeView.jsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/JdbcStorage.java" afterPath="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/JdbcStorage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/departmentStaff-1.0-SNAPSHOT/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="departmentStaff.iws" />
@@ -102,26 +43,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Storage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/Storage.java">
+      <file leaf-file-name="EmployeeEditServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeCache.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/EmployeeCache.java">
+      <file leaf-file-name="EmployeeView.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeView.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6885475">
-              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-7.8461537">
+              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmployeeShow.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeShow.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.115385">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,48 +77,42 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/ConnectionData.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
-              <folding>
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#351#352#0" expanded="true" />
-              </folding>
+              <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DBC.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DBC.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/DBC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="153" column="7" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.57894737">
+              <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#907#917#0" expanded="true" />
                 <marker date="1436426599234" expanded="true" signature="954:984" placeholder="select * fro..department_staff..." />
                 <marker date="1436426599234" expanded="true" signature="1795:1850" placeholder="DELETE FROM ..." />
                 <marker date="1436426599234" expanded="true" signature="2447:2537" placeholder="INSERT INTO ..." />
                 <marker date="1436426599234" expanded="true" signature="3359:3458" placeholder="UPDATE compa..." />
-                <marker date="1436426599234" expanded="true" signature="4336:4379" placeholder="select * fro..department_staff..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Employee.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/models/Employee.java">
+      <file leaf-file-name="exemple.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/exemple.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemoryStorage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/MemoryStorage.java">
+      <file leaf-file-name="EmployeeShowServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeShowServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -179,51 +120,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JdbcStorage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/JdbcStorage.java">
+      <file leaf-file-name="EmployeeDeleteServlet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeDeleteServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1436428890976" expanded="true" signature="928:970" placeholder="select * fro..client..." />
-                <marker date="1436428890976" expanded="true" signature="1433:1523" placeholder="insert into ..." />
-                <marker date="1436428890976" expanded="true" signature="2446:2489" placeholder="select * fro..client..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mustafaiev.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mustafaiev.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Settings.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/service/Settings.java">
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="e#607#608#0" expanded="false" />
-                <element signature="e#638#639#0" expanded="false" />
-                <element signature="e#677#678#0" expanded="false" />
-                <element signature="e#732#733#0" expanded="false" />
-              </folding>
+              <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="EditEmployee.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/EditEmployee.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+            <state vertical-scroll-proportion="-24.192308">
+              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -236,6 +157,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -259,24 +181,27 @@
         <option value="$PROJECT_DIR$/src/main/java/webapp/views/employee/CreateEmployee.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/webapp/views/employee/EmployeeView.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeDeleteServlet.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/employee/CreateEmployee.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeViewServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeCreateServlet.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeView.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/views/employee/EditEmployee.jsp" />
-        <option value="$PROJECT_DIR$/src/main/resources/mustafaiev.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/service/Settings.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/ConnectionData.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/models/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/DBC.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/Storage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/EmployeeCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/MemoryStorage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/EmployeeCache.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/mustafaiev.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeCreateServlet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/store/JdbcStorage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeShowServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeView.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/exemple.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeShow.jsp" />
       </list>
     </option>
   </component>
@@ -363,8 +288,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -398,6 +323,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="departmentStaff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="departmentStaff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -608,7 +555,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PetrA/Lesson20Hibernate/clinic-pet-web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Task/departmentStaffInfo" />
     <property name="recentsLimit" value="5" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -616,6 +563,23 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="288" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="288" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="289" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="963" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="289" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="287" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="289" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="963" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -998,27 +962,39 @@
       <workItem from="1436377668587" duration="3505000" />
       <workItem from="1436383858991" duration="5498000" />
       <workItem from="1436422647947" duration="7256000" />
+      <workItem from="1436430368910" duration="8108000" />
+      <workItem from="1436445992601" duration="239000" />
+      <workItem from="1436446713008" duration="1630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26078000" />
+    <option name="totallyTimeSpent" value="36055000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="1" y="0" width="1918" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25110132" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1431718" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32992464" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18061674" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24229075" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14537445" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25770926" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16299559" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -1056,41 +1032,10 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeViewServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeDeleteServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeCreateServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1116,16 +1061,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding>
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1141,7 +1076,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1157,7 +1091,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="17" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1172,9 +1105,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1182,7 +1113,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1190,9 +1120,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="80" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1210,16 +1138,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#725#726#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1227,9 +1145,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1253,7 +1169,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1261,9 +1176,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="19" column="80" selection-start-line="19" selection-start-column="80" selection-end-line="19" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1271,7 +1184,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1279,9 +1191,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="80" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,9 +1199,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1309,7 +1217,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1341,15 +1248,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="59" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1360,57 +1258,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeDeleteServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeViewServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeView.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.423077">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/EditEmployee.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/CreateEmployee.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1418,68 +1269,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="1120" column="13" selection-start-line="1120" selection-start-column="13" selection-end-line="1120" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#61442#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#10054#10055#0" expanded="false" />
-            <element signature="e#10122#10123#0" expanded="false" />
-            <element signature="e#33317#33318#0" expanded="false" />
-            <element signature="e#33411#33412#0" expanded="false" />
-            <element signature="e#42660#42661#0" expanded="false" />
-            <element signature="e#42703#42704#0" expanded="false" />
-            <element signature="e#50393#50394#0" expanded="false" />
-            <element signature="e#50433#50434#0" expanded="false" />
-            <element signature="e#50635#50636#0" expanded="false" />
-            <element signature="e#50677#50678#0" expanded="false" />
-            <element signature="e#53369#53370#0" expanded="false" />
-            <element signature="e#53403#53404#0" expanded="false" />
-            <element signature="e#54460#54461#0" expanded="false" />
-            <element signature="e#54508#54509#0" expanded="false" />
-            <element signature="e#54536#54537#0" expanded="false" />
-            <element signature="e#54596#54597#0" expanded="false" />
-            <element signature="e#54631#54632#0" expanded="false" />
-            <element signature="e#54694#54695#0" expanded="false" />
-            <element signature="e#54738#54739#0" expanded="false" />
-            <element signature="e#54806#54807#0" expanded="false" />
-            <element signature="e#54848#54849#0" expanded="false" />
-            <element signature="e#54919#54920#0" expanded="false" />
-            <element signature="e#54949#54950#0" expanded="false" />
-            <element signature="e#55003#55004#0" expanded="false" />
-            <element signature="e#55105#55106#0" expanded="false" />
-            <element signature="e#55155#55156#0" expanded="false" />
-            <element signature="e#55183#55184#0" expanded="false" />
-            <element signature="e#55243#55244#0" expanded="false" />
-            <element signature="e#55278#55279#0" expanded="false" />
-            <element signature="e#55341#55342#0" expanded="false" />
-            <element signature="e#55385#55386#0" expanded="false" />
-            <element signature="e#55455#55456#0" expanded="false" />
-            <element signature="e#55485#55486#0" expanded="false" />
-            <element signature="e#55539#55540#0" expanded="false" />
-            <element signature="e#55662#55663#0" expanded="false" />
-            <element signature="e#55712#55713#0" expanded="false" />
-            <element signature="e#56282#56283#0" expanded="false" />
-            <element signature="e#56342#56343#0" expanded="false" />
-            <element signature="e#56377#56378#0" expanded="false" />
-            <element signature="e#56440#56441#0" expanded="false" />
-            <element signature="e#56470#56471#0" expanded="false" />
-            <element signature="e#56524#56525#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeCreateServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mustafaiev.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1487,55 +1276,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/service/Settings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#607#608#0" expanded="false" />
-            <element signature="e#638#639#0" expanded="false" />
-            <element signature="e#677#678#0" expanded="false" />
-            <element signature="e#732#733#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/models/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/DBC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="153" column="7" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#907#917#0" expanded="true" />
-            <marker date="1436426599234" expanded="true" signature="954:984" placeholder="select * fro..department_staff..." />
-            <marker date="1436426599234" expanded="true" signature="1795:1850" placeholder="DELETE FROM ..." />
-            <marker date="1436426599234" expanded="true" signature="2447:2537" placeholder="INSERT INTO ..." />
-            <marker date="1436426599234" expanded="true" signature="3359:3458" placeholder="UPDATE compa..." />
-            <marker date="1436426599234" expanded="true" signature="4336:4379" placeholder="select * fro..department_staff..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/ConnectionData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
-          <folding>
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1543,9 +1283,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/service/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mustafaiev.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1553,31 +1304,131 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeCreateServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="45" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/models/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/JdbcStorage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1436428890976" expanded="true" signature="928:970" placeholder="select * fro..client..." />
-            <marker date="1436428890976" expanded="true" signature="1433:1523" placeholder="insert into ..." />
-            <marker date="1436428890976" expanded="true" signature="2446:2489" placeholder="select * fro..client..." />
-          </folding>
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/EmployeeCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6885475">
-          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeViewServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="58" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeDeleteServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeEditServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/servlets/EmployeeShowServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/EditEmployee.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.192308">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeView.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/exemple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/views/employee/EmployeeShow.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.115385">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/ConnectionData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mustafaiev/store/DBC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57894737">
+          <caret line="26" column="34" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+          <folding>
+            <marker date="1436426599234" expanded="true" signature="954:984" placeholder="select * fro..department_staff..." />
+            <marker date="1436426599234" expanded="true" signature="1795:1850" placeholder="DELETE FROM ..." />
+            <marker date="1436426599234" expanded="true" signature="2447:2537" placeholder="INSERT INTO ..." />
+            <marker date="1436426599234" expanded="true" signature="3359:3458" placeholder="UPDATE compa..." />
           </folding>
         </state>
       </provider>

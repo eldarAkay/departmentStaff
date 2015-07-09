@@ -12,7 +12,7 @@ public class EmployeeCache  {
 
     private static final EmployeeCache INSTANCE = new EmployeeCache();
 
-    private final Storage storage = new MemoryStorage();
+    private final Storage storage = new JdbcStorage();
 
     public static EmployeeCache getInstance() {
         return INSTANCE;

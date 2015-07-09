@@ -38,5 +38,13 @@
         <servlet-name>EmployeeDeleteServlet</servlet-name>
         <url-pattern>/employee/delete</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>EmployeeShowServlet</servlet-name>
+        <servlet-class>com.mustafaiev.servlets.EmployeeShowServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>EmployeeShowServlet</servlet-name>
+        <url-pattern>/employee/show</url-pattern>
+    </servlet-mapping>
 
 </web-app>
