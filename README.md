@@ -1,13 +1,5 @@
-# departmentStaff
-
-The program serves the data regarding company employees.
-
-- The programm funcionality:
-
-- Add employee
-- Edit employee
-- delete employee
-- Show the list of employees
+# department staff
+employees data managemant app
 
 Tools used:
 Java 1.7
