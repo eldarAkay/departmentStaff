@@ -9,15 +9,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by user on 08.07.2015.
- */
 public class EmployeeEditServlet extends HttpServlet {
-
-   // final AtomicInteger ids = new AtomicInteger();
-
     private static final EmployeeCache EMPLOYEE_CACHE = EmployeeCache.getInstance();
 
     @Override
@@ -29,7 +22,8 @@ public class EmployeeEditServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        this.EMPLOYEE_CACHE.edit(new Employee(Integer.valueOf(req.getParameter("id")), req.getParameter("firstName"), req.getParameter("lastName"), req.getParameter("email"), req.getParameter("phone")));
+        this.EMPLOYEE_CACHE.edit(new Employee(Integer.valueOf(req.getParameter("id")), req.getParameter("firstName"), req.getParameter("lastName"),
+                req.getParameter("email"), req.getParameter("phone")));
         resp.sendRedirect(String.format("%s%s", req.getContextPath(), "/employee/view"));
     }
 }

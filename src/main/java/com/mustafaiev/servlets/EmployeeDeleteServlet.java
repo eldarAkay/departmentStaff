@@ -8,9 +8,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * Created by user on 08.07.2015.
- */
 public class EmployeeDeleteServlet extends HttpServlet {
     private static final EmployeeCache EMPLOYEE_CACHE = EmployeeCache.getInstance();
 

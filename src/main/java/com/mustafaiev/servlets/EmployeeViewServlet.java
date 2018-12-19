@@ -13,7 +13,6 @@ import java.io.IOException;
  * Created by user on 08.07.2015.
  */
 public class EmployeeViewServlet extends HttpServlet {
-
     private final EmployeeCache EMPLOYEE_CACHE = EmployeeCache.getInstance();
 
     @Override

@@ -4,12 +4,8 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-/**
- * Created by user on 08.07.2015.
- */
 public class Settings {
     private static final Settings INSTANCE = new Settings();
-
     private final Properties properties = new Properties();
 
     private Settings() {

@@ -10,13 +10,8 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by user on 08.07.2015.
- */
 public class EmployeeCreateServlet extends HttpServlet {
     final AtomicInteger ids = new AtomicInteger();
-
-
     private final EmployeeCache EMPLOYEE_CACHE = EmployeeCache.getInstance();
 
     @Override

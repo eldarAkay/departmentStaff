@@ -1,8 +1,5 @@
 package com.mustafaiev.models;
 
-/**
- * Created by user on 08.07.2015.
- */
 public class Employee {
     private final Integer id;
     private final String firstName;
@@ -10,7 +7,7 @@ public class Employee {
     private final String email;
     private final String phone;
 
-    public Employee(final int id, final String firstName,final String lastName,final String email,final String phone) {
+    public Employee(final int id, final String firstName, final String lastName, final String email, final String phone) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
@@ -37,8 +34,5 @@ public class Employee {
     public String getPhone() {
         return phone;
     }
-
-
-
 
 }

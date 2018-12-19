@@ -1,6 +1,5 @@
 package com.mustafaiev.servlets;
 
-import com.mustafaiev.models.Employee;
 import com.mustafaiev.store.EmployeeCache;
 
 import javax.servlet.RequestDispatcher;
@@ -9,15 +8,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.util.concurrent.atomic.AtomicInteger;
 
-/**
- * Created by user on 09.07.2015.
- */
 public class EmployeeShowServlet extends HttpServlet {
-
-   // final AtomicInteger ids = new AtomicInteger();
-
     private static final EmployeeCache EMPLOYEE_CACHE = EmployeeCache.getInstance();
 
     @Override
